@@ -1,0 +1,1 @@
+Prima esercitazione training Js
